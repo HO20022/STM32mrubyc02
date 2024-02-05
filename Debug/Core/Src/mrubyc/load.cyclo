@@ -1,0 +1,10 @@
+../Core/Inc/mrubyc/vm.h:210:24:bin_to_uint16	1
+../Core/Inc/mrubyc/vm.h:242:24:bin_to_uint32	1
+../Core/Inc/mrubyc/vm.h:328:22:bin_to_double64	2
+../Core/Src/mrubyc/load.c:80:12:load_header	3
+../Core/Src/mrubyc/load.c:137:20:load_irep_1	17
+../Core/Src/mrubyc/load.c:253:19:load_irep	5
+../Core/Src/mrubyc/load.c:282:5:mrbc_load_mrb	5
+../Core/Src/mrubyc/load.c:314:5:mrbc_load_irep	2
+../Core/Src/mrubyc/load.c:331:6:mrbc_irep_free	2
+../Core/Src/mrubyc/load.c:351:12:mrbc_irep_pool_value	4

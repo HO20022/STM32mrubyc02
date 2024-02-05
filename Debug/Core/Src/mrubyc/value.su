@@ -1,0 +1,4 @@
+../Core/Inc/mrubyc/c_string.h:90:19:mrbc_string_compare	24	static
+../Core/Src/mrubyc/value.c:75:5:mrbc_compare	64	static
+../Core/Src/mrubyc/value.c:194:12:mrbc_atoi	32	static
+../Core/Src/mrubyc/value.c:247:5:mrbc_strcpy	32	static

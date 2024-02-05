@@ -1,0 +1,14 @@
+../Core/Inc/mrubyc/symbol.h:60:19:mrbc_is_nested_symid	24	static
+../Core/Inc/mrubyc/keyvalue.h:104:32:mrbc_kv_iterator_new	24	static
+../Core/Inc/mrubyc/keyvalue.h:117:19:mrbc_kv_i_has_next	16	static
+../Core/Inc/mrubyc/keyvalue.h:125:24:mrbc_kv_i_next	16	static
+../Core/Inc/mrubyc/console.h:102:20:mrbc_print	16	static
+../Core/Src/mrubyc/global.c:44:6:mrbc_init_global	8	static
+../Core/Src/mrubyc/global.c:58:5:mrbc_set_const	16	static
+../Core/Src/mrubyc/global.c:76:5:mrbc_set_class_const	64	static
+../Core/Src/mrubyc/global.c:93:14:mrbc_get_const	16	static
+../Core/Src/mrubyc/global.c:106:14:mrbc_get_class_const	32	static
+../Core/Src/mrubyc/global.c:129:5:mrbc_set_global	16	static
+../Core/Src/mrubyc/global.c:141:14:mrbc_get_global	16	static
+../Core/Src/mrubyc/global.c:166:6:mrbc_debug_dump_const	32	static
+../Core/Src/mrubyc/global.c:210:6:mrbc_debug_dump_global	32	static

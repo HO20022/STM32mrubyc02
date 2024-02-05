@@ -1,0 +1,16 @@
+../Core/Src/mrubyc/alloc.c:241:19:nlz16	24	static
+../Core/Src/mrubyc/alloc.c:259:19:nlz8	24	static
+../Core/Src/mrubyc/alloc.c:276:28:calc_index	32	static
+../Core/Src/mrubyc/alloc.c:309:13:add_free_block	32	static
+../Core/Src/mrubyc/alloc.c:339:13:remove_free_block	32	static
+../Core/Src/mrubyc/alloc.c:371:27:split_block	24	static
+../Core/Src/mrubyc/alloc.c:393:20:merge_block	16	static
+../Core/Src/mrubyc/alloc.c:409:6:mrbc_init_alloc	32	static
+../Core/Src/mrubyc/alloc.c:448:6:mrbc_cleanup_alloc	8	static
+../Core/Src/mrubyc/alloc.c:467:8:mrbc_raw_alloc	56	static
+../Core/Src/mrubyc/alloc.c:582:8:mrbc_raw_alloc_no_free	40	static
+../Core/Src/mrubyc/alloc.c:630:6:mrbc_raw_free	40	static
+../Core/Src/mrubyc/alloc.c:696:8:mrbc_raw_realloc	40	static
+../Core/Src/mrubyc/alloc.c:763:14:mrbc_alloc_usable_size	24	static
+../Core/Src/mrubyc/alloc.c:844:6:mrbc_alloc_statistics	32	static
+../Core/Src/mrubyc/alloc.c:875:6:mrbc_alloc_print_memory_pool	64	static

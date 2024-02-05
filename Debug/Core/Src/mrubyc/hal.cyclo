@@ -1,0 +1,5 @@
+../Core/Src/mrubyc/hal.c:6:6:hal_init	1
+../Core/Src/mrubyc/hal.c:9:6:hal_enable_irq	1
+../Core/Src/mrubyc/hal.c:13:6:hal_disable_irq	1
+../Core/Src/mrubyc/hal.c:17:6:hal_idle_cpu	1
+../Core/Src/mrubyc/hal.c:26:5:hal_write	1

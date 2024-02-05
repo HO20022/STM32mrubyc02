@@ -1,0 +1,14 @@
+../Core/Inc/mrubyc/value.h:462:20:mrbc_decref	3
+../Core/Inc/mrubyc/c_string.h:81:26:mrbc_string_new_cstr	2
+../Core/Inc/mrubyc/c_string.h:104:19:mrbc_string_size	1
+../Core/Inc/mrubyc/c_string.h:112:22:mrbc_string_cstr	1
+../Core/Src/mrubyc/error.c:41:25:sub_exception_new	4
+../Core/Src/mrubyc/error.c:74:12:mrbc_exception_new	6
+../Core/Src/mrubyc/error.c:125:12:mrbc_exception_new_alloc	2
+../Core/Src/mrubyc/error.c:142:6:mrbc_exception_delete	2
+../Core/Src/mrubyc/error.c:159:6:mrbc_raise	5
+../Core/Src/mrubyc/error.c:182:6:mrbc_raisef	5
+../Core/Src/mrubyc/error.c:215:6:mrbc_print_exception	3
+../Core/Src/mrubyc/error.c:232:6:mrbc_print_vm_exception	6
+../Core/Src/mrubyc/error.c:259:13:c_exception_new	3
+../Core/Src/mrubyc/error.c:277:13:c_exception_message	2
